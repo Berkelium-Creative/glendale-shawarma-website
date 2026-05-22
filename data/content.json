@@ -1,47 +1,136 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "Glendale Shawarma",
+  "tagline": "Charcoal-grilled shawarma on Glenoaks Blvd, Glendale.",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "eyebrow": "GLENDALE · W GLENOAKS BLVD · SHAWARMA · 184 REVIEWS",
+    "heading": "Spit-grilled shawarma.",
+    "subheading": "A charcoal-grilled shawarma shop on West Glenoaks Boulevard in Glendale. House-marinated chicken and beef stacked on a vertical spit, fresh pita pressed to order, the kind of garlic sauce that makes the wrap.",
+    "ctaText": "Call ahead",
+    "ctaLink": "tel:7477558888",
+    "image": "https://images.unsplash.com/photo-1561651823-34feb02250e4?w=1800&q=80&auto=format&fit=crop"
   },
   "about": {
-    "heading": "About Us",
+    "label": "the shop",
+    "heading": "House spice, fresh pita, real fire.",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "Glendale Shawarma sits on West Glenoaks Boulevard in central Glendale. We've been here long enough to know what regulars want and short enough to still care about every plate we send out.",
+      "Two vertical spits — chicken and beef — start fresh every morning. Pita gets pressed and grilled per order. Garlic sauce and tahini are made in-house, never pre-bottled. The salads are cut and dressed when you walk in.",
+      "Open seven days. Dine in, takeout, or call ahead. The 184 reviews come from regulars who walk in three times a week."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
+    {
+      "title": "Chicken Shawarma Wrap",
+      "description": "House-marinated chicken from the spit, fresh pita, garlic sauce, pickles, tomato, parsley. The wrap regulars come for.",
+      "price": "$11"
+    },
+    {
+      "title": "Beef Shawarma Plate",
+      "description": "Sliced beef from the spit, rice, hummus, fattoush salad, pita. Heartier portion for a real lunch.",
+      "price": "$15"
+    },
+    {
+      "title": "Mixed Plate",
+      "description": "Half chicken, half beef, rice, hummus, salad, garlic sauce, tahini, pita. Two proteins, one bill.",
+      "price": "$17"
+    },
+    {
+      "title": "Falafel Wrap",
+      "description": "Hand-formed falafel from the chickpea grind, fresh pita, tahini, salad, pickled turnip. Fully vegetarian.",
+      "price": "$10"
+    },
+    {
+      "title": "Mezze Platter",
+      "description": "Hummus, baba ghanoush, labneh, tabbouleh, falafel, pita. Serves two as a starter or one as lunch.",
+      "price": "$18"
+    },
+    {
+      "title": "Family Pack",
+      "description": "Four wraps, hummus, fries, salad, sauces. Feeds four. Call thirty minutes ahead.",
+      "price": "$42"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Hovo K.",
+      "rating": 5,
+      "context": "Weekly regular",
+      "text": "Glendale Shawarma is the only shawarma I trust on Glenoaks. The chicken is marinated right, the pita is fresh, and the garlic sauce is real. I've eaten here every Friday for two years and the bowl has never been off."
+    },
+    {
+      "name": "Sara D.",
+      "rating": 4,
+      "context": "First-time customer",
+      "text": "Stopped in cold on a Tuesday and was eating one of the best chicken shawarma wraps I've had in LA eight minutes later. The pita was warm, the garlic sauce was strong, the pickle was the right amount."
+    },
+    {
+      "name": "Vahe M.",
+      "rating": 5,
+      "context": "Family-of-five customer",
+      "text": "Bring the family here every other Sunday for the family pack — four wraps, hummus, fries, forty-two bucks, ten minutes. Kids ask for it by name. The mezze platter is real money for the size."
+    }
   ],
   "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
+    "phone": "(747) 755-8888",
+    "email": "hello@glendaleshawarma.com",
+    "address": "1910 W Glenoaks Blvd Suite A, Glendale, CA 91201",
+    "mapEmbedQuery": "Glendale Shawarma, 1910 W Glenoaks Blvd, Glendale, CA 91201",
     "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
-      "Sunday": "Closed"
-    },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+      "Monday": "10:00 AM – 10:00 PM",
+      "Tuesday": "10:00 AM – 10:00 PM",
+      "Wednesday": "10:00 AM – 10:00 PM",
+      "Thursday": "10:00 AM – 10:00 PM",
+      "Friday": "10:00 AM – 11:00 PM",
+      "Saturday": "10:00 AM – 11:00 PM",
+      "Sunday": "11:00 AM – 9:00 PM"
+    }
   },
+  "social": {},
   "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+    "title": "Glendale Shawarma — Charcoal-grilled shawarma on Glenoaks Blvd",
+    "description": "A charcoal-grilled shawarma shop on West Glenoaks Boulevard, Glendale. Chicken, beef, falafel, mezze, family packs. Fresh pita, house garlic sauce. Open seven days.",
+    "keywords": [
+      "Glendale shawarma",
+      "Glenoaks shawarma",
+      "Glendale Middle Eastern",
+      "Glendale falafel",
+      "Glendale mezze"
+    ]
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "primaryColor": "#3F6212",
+    "accentColor": "#D97706",
+    "fontFamily": "notonaskharabic-karla-caveat"
+  },
+  "designSystem": {
+    "searchQuery": "middle eastern shawarma grill char fire warm spice clay terracotta",
+    "styleName": "Levantine Olive Saffron (olive + paprika + cream)",
+    "pattern": "Hero split + Menu two-column + Reviews cards + CTA",
+    "palette": {
+      "primary": "#3F6212",
+      "secondary": "#1A2E05",
+      "cta": "#3F6212",
+      "accent": "#D97706",
+      "background": "#FEF7E6",
+      "text": "#1F2937",
+      "muted": "#6B7280",
+      "border": "#1A2E05",
+      "surface": "#F5E6C8"
+    },
+    "typography": {
+      "heading": "Noto Naskh Arabic",
+      "body": "Karla",
+      "label": "Caveat",
+      "mood": "Noto Naskh Arabic display for bilingual Levantine authenticity, Karla humanist body, Caveat hand-script accent — olive + saffron + cream Middle Eastern warmth"
+    },
+    "moves": [
+      "Noto Naskh Arabic for display — first Arabic Naskh in the build, multilingual ready",
+      "Olive + paprika + saffron + cream — Levantine warm palette, distinct from any prior",
+      "Arch-shaped hero photo border (rounded top) — Middle Eastern architectural detail",
+      "Numbered circular badges in menu items — souk/market feel",
+      "✦ four-pointed star ornament as section dividers — Middle Eastern pattern echo",
+      "Letter-avatar reviews with paprika circle — community personal touch",
+      "Saffron-yellow visit section with olive frame — distinct closing palette"
+    ]
   }
 }
